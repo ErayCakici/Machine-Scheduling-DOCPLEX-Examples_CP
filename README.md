@@ -6,3 +6,4 @@ Optimization models are formulated in Python and solved with Cplex by using DOcp
 
 Problems addressed are: 
 - Single machine scheduling to minimize weighted number of tardy jobs 
+- Single machine scheduling to minimize maximum lateness (with release times)
