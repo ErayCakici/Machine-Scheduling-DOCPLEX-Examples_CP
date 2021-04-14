@@ -9,6 +9,10 @@ Problems addressed are:
 - [Single machine scheduling to minimize maximum lateness (with release times)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/SingleMch_MinMaxLatenessReleaseDates.ipynb)
 - [Single machine scheduling to minimize total weighted completion times (with precedence constraints)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/SingleMch_TWCT_PrecedenceConstraints.ipynb)
 - [Single machine scheduling to minimize total weighted completion times (with batching and incompatible job families)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/SingleMch_TWCT_Batching.ipynb)
-- [Single machine scheduling to minimize makespane (with sequence dependent setup times)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/SingleMch_SeqDepSetUp.ipynb) 
+- [Single machine scheduling to minimize makespan (with sequence dependent setup times)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/SingleMch_SeqDepSetUp.ipynb) 
+- [Parallel machine scheduling to minimize makespan](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_Makespan.ipynb) 
+- [Parallel machine scheduling to minimize total weighted tardiness (with batching and incompatible job families)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_TWT_Batching.ipynb) 
+- [Parallel machine scheduling to minimize makespan (with sequence dependent setup times and unrelated machines)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_UnrelatedSeqDep.ipynb) 
+- To be continued
 
 Same problems are formulated in Optimization Programming Language (OPL) at [Scheduling-OPL-Examples_CP](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP) repository. 
