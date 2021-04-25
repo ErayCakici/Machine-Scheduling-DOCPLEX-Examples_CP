@@ -15,7 +15,10 @@ Problems addressed are:
 - [Parallel machine scheduling to minimize makespan (with sequence dependent setup times and unrelated machines)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_UnrelatedSeqDep.ipynb) 
 - [Parallel machine scheduling to minimize makespan (Job Shop)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_JobShop.ipynb) 
 - [Parallel machine scheduling to minimize makespan (Flow Shop)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_FlowShop.ipynb) 
-- [Parallel machine scheduling to minimize makespan (Open Shop)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_OpenShop.ipynb) 
+- [Parallel machine scheduling to minimize makespan (Open Shop)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_OpenShop.ipynb)
+- [Parallel machine scheduling to minimize makespan (Flexible Job Shop)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_FlexibleJobShop.ipynb)
+- [Parallel machine scheduling to minimize makespan (with resource constraints)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_ResourceConstrained.ipynb)
+- [Parallel machine scheduling to minimize number of tardy jobs (with flexible resource constraints)](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP/blob/main/ParallelMch_FlexibleRCSP.ipynb) 
 - To be continued
 
 Same problems are formulated in Optimization Programming Language (OPL) at [Scheduling-OPL-Examples_CP](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP) repository. 
